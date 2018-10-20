@@ -1,12 +1,12 @@
 #### P5 Sketches from Generative Design Book
-#### Source: [Generative Design] (http://www.generative-gestaltung.de/2/ "Generative Design")
+#### Source: [Generative Design](http://www.generative-gestaltung.de/2/ "Generative Design")
 
 ##
 
 ** **
 **List of sketches:**
 
-1. Ñhanging colors and size by moving the mouse
+1. Changing colors and size by moving the mouse
 2. Draw the color spectrum by moving the mouse
 3. Changing the color circle by moving the mouse
 4. Colors interpolation
