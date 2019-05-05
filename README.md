@@ -6,13 +6,16 @@
 ** **
 **List of sketches:**
 
-1. Changing colors and size by moving the mouse
-2. Draw the color spectrum by moving the mouse
-3. Changing the color circle by moving the mouse
-4. Colors interpolation
-5. Extract and sort the color palette of an image
-6. Specific color palettes with offsets
-7. Specific color palette and random rect-tilings
+01. Changing colors and size by moving the mouse
+02. Draw the color spectrum by moving the mouse
+03. Changing the color circle by moving the mouse
+04. Colors interpolation
+05. Extract and sort the color palette of an image
+06. Specific color palettes with offsets
+07. Specific color palette and random rect-tilings
+08. Specific color palette and random rect-tilings
+09. Specific color palette and random rect-tilings
+10. Specific color palette and random rect-tilings
 
 
 **List of used libraries:**
