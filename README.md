@@ -4,7 +4,7 @@
 ##
 
 ** **
-**List of sketches:**
+**List of 'Colour' sketches:**
 
 01. Changing colors and size by moving the mouse
 02. Draw the color spectrum by moving the mouse
@@ -17,6 +17,16 @@
 09. Specific color palette and random rect-tilings
 10. Specific color palette and random rect-tilings
 
+**List of 'Shapes' sketches:**
+
+01. Circle with lines
+02. Changing shape by draging the mouse
+03. Same with colours
+04. Diagonals in a grid (+ changing strokeweight and strokecaps)
+05. Rotating figures in the grid by the mouse
+06. Translate grid and shift shapes
+07. Resize the circles in the grid depending on the mouse position
+08. Text image analysis and reproduction of text path
 
 **List of used libraries:**
  
